@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\233306\desktop\new folder\displaytext2\displaytext2\source.cpp(10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  DisplayText2.vcxproj -> C:\Users\233306\Desktop\New folder\DisplayText2\Debug\DisplayText2.exe
+  DisplayText2.vcxproj -> C:\Users\233306\Desktop\New folder\DisplayText2\Debug\DisplayText2.pdb (Partial PDB)
